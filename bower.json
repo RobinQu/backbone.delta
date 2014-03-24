@@ -1,0 +1,14 @@
+{
+  "name": "backbone.delta",
+  "version": "1.5.8",
+  "authors": [
+    "RobinQu <robinqu@gmail.com>"
+  ],
+  "main": "backbone.js",
+  "description": "Customized backbone repo for bower",
+  "keywords": [
+    "backbone",
+    "bower"
+  ],
+  "license": "MIT"
+}
